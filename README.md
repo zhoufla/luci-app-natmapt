@@ -11,6 +11,7 @@ TCP/UDP port mapping for full cone NAT
 - [x] Port update notify script
 - [x] A Record update script
 - [x] AAAA Record update script
+- [x] IP4P (IPv4 + port encoded in an AAAA Record) update script
 - [x] SRV Record update script
 - [x] HTTPS Record update script
 - [ ] SVCB Record update script

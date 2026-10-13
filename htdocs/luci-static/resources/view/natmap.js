@@ -655,6 +655,13 @@ return view.extend({
 		o.depends('family', 'ipv6');
 		o.modalonly = true;
 
+		o = s.taboption('ddns', form.Value, 'ddns_ip4p', _('IP4P Record ') + _('FQDN'));
+		o.datatype = 'hostname';
+		o.placeholder = 'wg.example.com';
+		o.rmempty = true;
+		o.depends('family', 'ipv4');
+		o.modalonly = true;
+
 		o = s.taboption('ddns', form.DummyValue, '_ddns_srv_dump', _('SRV Record'));
 		o.rawhtml = false;
 		o.cfgvalue = function(section_id) {

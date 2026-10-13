@@ -50,8 +50,8 @@ msgstr "Priskirti prievadą"
 msgid "Boot delay"
 msgstr ""
 
-#: htdocs/luci-static/resources/view/natmap.js:679
-#: htdocs/luci-static/resources/view/natmap.js:688
+#: htdocs/luci-static/resources/view/natmap.js:686
+#: htdocs/luci-static/resources/view/natmap.js:695
 msgid "Can refer to RFC8552"
 msgstr ""
 
@@ -68,7 +68,7 @@ msgid "Comment"
 msgstr ""
 
 #: htdocs/luci-static/resources/view/natmap.js:306
-#: htdocs/luci-static/resources/view/natmap.js:759
+#: htdocs/luci-static/resources/view/natmap.js:766
 msgid "Custom Script"
 msgstr ""
 
@@ -124,8 +124,9 @@ msgstr "Išorinis prievadas"
 
 #: htdocs/luci-static/resources/view/natmap.js:644
 #: htdocs/luci-static/resources/view/natmap.js:651
-#: htdocs/luci-static/resources/view/natmap.js:673
-#: htdocs/luci-static/resources/view/natmap.js:731
+#: htdocs/luci-static/resources/view/natmap.js:658
+#: htdocs/luci-static/resources/view/natmap.js:680
+#: htdocs/luci-static/resources/view/natmap.js:738
 msgid "FQDN"
 msgstr ""
 
@@ -188,8 +189,12 @@ msgstr ""
 msgid "HTTP server"
 msgstr "„HTTP“ serveris"
 
-#: htdocs/luci-static/resources/view/natmap.js:718
+#: htdocs/luci-static/resources/view/natmap.js:725
 msgid "HTTPS Record"
+msgstr ""
+
+#: htdocs/luci-static/resources/view/natmap.js:658
+msgid "IP4P Record"
 msgstr ""
 
 #: htdocs/luci-static/resources/view/natmap.js:353
@@ -285,8 +290,8 @@ msgstr ""
 msgid "Port forwarding session idle timeout in seconds"
 msgstr ""
 
-#: htdocs/luci-static/resources/view/natmap.js:704
-#: htdocs/luci-static/resources/view/natmap.js:752
+#: htdocs/luci-static/resources/view/natmap.js:711
+#: htdocs/luci-static/resources/view/natmap.js:759
 msgid "Priority"
 msgstr ""
 
@@ -295,7 +300,7 @@ msgid "Private API Domain"
 msgstr ""
 
 #: htdocs/luci-static/resources/view/natmap.js:341
-#: htdocs/luci-static/resources/view/natmap.js:688
+#: htdocs/luci-static/resources/view/natmap.js:695
 #: htdocs/luci-static/resources/view/status/include/72_natmap.js:60
 msgid "Protocol"
 msgstr "Protokolas"
@@ -321,7 +326,7 @@ msgstr ""
 msgid "Restrict to address family"
 msgstr "Riboti tik adresų šeimai"
 
-#: htdocs/luci-static/resources/view/natmap.js:658
+#: htdocs/luci-static/resources/view/natmap.js:665
 msgid "SRV Record"
 msgstr ""
 
@@ -340,7 +345,7 @@ msgstr "„STUN“ serveris"
 msgid "Server"
 msgstr ""
 
-#: htdocs/luci-static/resources/view/natmap.js:679
+#: htdocs/luci-static/resources/view/natmap.js:686
 msgid "Service"
 msgstr ""
 
@@ -348,12 +353,12 @@ msgstr ""
 msgid "Set 0 will follow Public port"
 msgstr ""
 
-#: htdocs/luci-static/resources/view/natmap.js:745
+#: htdocs/luci-static/resources/view/natmap.js:752
 msgid "SvcParams"
 msgstr ""
 
 #: htdocs/luci-static/resources/view/natmap.js:174
-#: htdocs/luci-static/resources/view/natmap.js:689
+#: htdocs/luci-static/resources/view/natmap.js:696
 msgid "TCP"
 msgstr ""
 
@@ -365,12 +370,12 @@ msgstr ""
 msgid "TCP STUN"
 msgstr ""
 
-#: htdocs/luci-static/resources/view/natmap.js:691
+#: htdocs/luci-static/resources/view/natmap.js:698
 msgid "TLS"
 msgstr ""
 
-#: htdocs/luci-static/resources/view/natmap.js:697
-#: htdocs/luci-static/resources/view/natmap.js:737
+#: htdocs/luci-static/resources/view/natmap.js:704
+#: htdocs/luci-static/resources/view/natmap.js:744
 msgid "Target"
 msgstr ""
 
@@ -428,7 +433,7 @@ msgstr ""
 
 #: htdocs/luci-static/resources/view/natmap.js:179
 #: htdocs/luci-static/resources/view/natmap.js:184
-#: htdocs/luci-static/resources/view/natmap.js:690
+#: htdocs/luci-static/resources/view/natmap.js:697
 msgid "UDP"
 msgstr ""
 
@@ -452,7 +457,7 @@ msgstr ""
 msgid "Web UI Port"
 msgstr ""
 
-#: htdocs/luci-static/resources/view/natmap.js:711
+#: htdocs/luci-static/resources/view/natmap.js:718
 msgid "Weight"
 msgstr ""
 
@@ -477,7 +482,7 @@ msgstr ""
 msgid "luci check may not detect all conflicts."
 msgstr ""
 
-#: htdocs/luci-static/resources/view/natmap.js:764
+#: htdocs/luci-static/resources/view/natmap.js:771
 msgid "⭮"
 msgstr ""
 
